@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:wght@200;300;400;500;600&display=swap');
+
+:root{
+    --cor-primaria:#27005D;
+    --cor--secundaria:#E4F1FF;
+    --cor--terca:#9400FF;
+    --cor--cuarta:rgb(12, 1, 1);
+    --cor--quinta:#83c0d3;
+    --cor--sexta:#4b1596;
+
+    --font--primaria:"Krona One", sans-serif; 
+    --font--secundaria: "Montserrat", sans-serif;
+} 
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    box-sizing: border-box;
+    background-color: var(--cor-primaria);
+    color:var(--cor--secundaria) ;   
+}
+
+.cabecalho{
+    padding: 2% 0% 0% 13%;
+}
+
+.cabecalho__menu{
+    display: flex;
+    gap: 8rem;
+}
+
+.cabecalho__menu__link{
+    text-decoration: none;
+    color: var(--cor--terca);
+    font-size: 1.5rem;
+    font-family: var(--font--secundaria);
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.cabecalho__menu__link:hover{
+    color: var(--cor--secundaria);   
+}
+
+.apresentacao{
+    padding: 1.4% 13% ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 82px;
+}
+
+
+.apresentacao__conteudo{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.apresentacao__conteudo__titulo{
+    font-size: 2.5rem;
+    font-family: var(--font--primaria);   
+}
+
+.titulo-destaque {
+    color:var(--cor--terca);
+}
+
+.apresentacao__conteudo__texto{
+    font-size: 1.6rem;
+    font-family: var(--font--secundaria);
+    
+}
+
+.apresentacao__links{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;   
+}
+
+.apresentacao__links__subtitulo{
+    font-family: var(--font--primaria);
+    font-weight: 400;
+    font-size: 1.6rem;
+}
+
+.apresentacao__links__navegacao{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    width: 50%;
+    text-align: center;
+    line-height: 2.5rem;
+    border-radius: 1rem;
+    font-size: 2rem;
+    font-weight: 600;
+    padding: 1.344rem 0;
+    text-decoration:none;
+    color:var(--cor--quinta);
+    font-family: var(--font--secundaria);
+    border: var(--cor--quinta) 0.188rem solid;
+    cursor: pointer;   
+}
+
+.apresentacao__links__link:hover{
+    background-color: var(--cor--terca);
+}
+
+.apresentacao__curriculo__desenvolvedor {
+    padding: 6% 20% 10% 15%;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 1.25rem;
+    margin: 1.25rem; 
+ 
+ }
+ 
+.apresentacao__curriculo__partes__ {
+     padding: 2% 0% 0% 0%;
+     width: 50%;
+     display: flex;
+     flex-direction: column;
+     margin: 1.25rem;
+ }
+ 
+.apresentacao__curriculo__titulo {
+     font-size: 1.5rem;
+     font-family: var(--font--primaria);
+     font-weight: 500;
+     margin: 1.25rem;
+    
+ }
+ 
+.apresentacao__curriculo__subtitulos {
+     font-size: 1.5rem;
+     font-family: var(--font--primaria);
+     font-weight: 400;
+     margin: 1.25rem;
+     align-items: center;
+     display: flex;
+     justify-content: left;
+ }
+
+.apresentacao__curriculo__subtitulos img {
+    margin-right: 1rem;
+ }
+ 
+.apresentacao__curriculo__paragrafos {
+     font-size: 1rem;
+     font-family:var(--font--secundaria);
+     font-weight: 400;
+     margin: 1.25rem;
+ 
+ }
+ 
+.apresentacao__curriculo__apresentacao  {
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     border: 2px solid var(--cor--quinta);
+     border-radius: 1rem;
+     padding: 1.344rem 2% 1.344rem 2%;
+     line-height: 150%;
+     margin: 1.25rem;
+    gap: 1.25rem;
+ }
+
+.apresentacao__curriculo__subtitulos__cargo {
+    font-size: 1.25rem;
+    font-family: var(--font--secundaria);
+    margin-left: 1.25rem;
+    margin-bottom: 0.625rem;
+}
+
+.apresentacao__curriculo__subtitulos__empresa {
+    margin-left: 1.25rem;
+    font-family: var(--font--secundaria);
+}
+
+.apresentacao__curriculo__competencia {
+    margin: 1.25rem;
+    font-family: var(--font--secundaria);
+    
+}
+
+.apresentacao__curriculo__competencia__conteudo {
+ 
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     border: var(--cor--quinta) 0.125rem solid;
+     border-radius: 1rem;
+     padding: 1.344rem 2% 1.344rem 2%;
+     line-height: 150%;
+     margin: 1.25rem;
+ }
+
+.apresentacao__imagem{
+    box-shadow:  3.938rem -0.188rem 1.25rem 1.125rem var(--cor--sexta);
+    border-radius: 1.813rem;
+    margin: 1.25rem;
+    width: 40%;
+}
+
+.rodape{
+    padding: 1.563rem;
+    color:var(--cor--secundaria);
+    background-color:var(--cor--cuarta);
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: var(--font--secundaria);
+    font-weight: 400;  
+}
+
+@media(max-width: 1200px) {
+    .cabecalho{
+        padding: 10%;
+    }
+
+    .cabecalho__menu{
+        justify-content: center;
+    }
+
+    .apresentacao{
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .apresentacao__conteudo{
+        width: auto;
+    }
+}
