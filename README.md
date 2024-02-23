@@ -2,7 +2,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/SamilMoret/portfolio-novo-2024/issues/1#issue-2151855008)
+![image](https://user-images.githubusercontent.com/portfolio-novo-2024/issues/1#issue-2151855008)
 
 ## Ferramentas utilizadas:
 
