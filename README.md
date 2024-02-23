@@ -17,20 +17,5 @@
 ### Samil Moret
 
 ### Linkedin:https://www.linkedin.com/in/samilmoret/
-)
-
-## Ferramentas utilizadas:
-
-* HTML
-
-* CSS
-
-* Flex-box
-
-## Feito por:
-
-### Samil Moret
-
-### Linkedin:https://www.linkedin.com/in/samilmoret/
 
 ```
