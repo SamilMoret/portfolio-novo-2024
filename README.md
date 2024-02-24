@@ -11,7 +11,8 @@
 <h2>Feito por:</h2>
 <p>Samil Moret</p>
 
-<p>Linkedin:</p><a herf="https://www.linkedin.com/in/samilmoret/"></a>
+<p>Linkedin:</p>
+<a herf="https://www.linkedin.com/in/samilmoret/"></a>
 
 
 
