@@ -6,7 +6,7 @@
 
 <h2>Tecnologias uitilizadas:</h2>
 <p>* HTML</p>
-<p>* CSS (incluindo Flexbox</p>
+<p>* CSS (incluindo Flexbox)</p>
 
 <h2>Feito por:</h2>
 <p>Samil Moret</p>
