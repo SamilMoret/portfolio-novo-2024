@@ -1,21 +1,17 @@
-```
+<h1> Bem-vindo ao meu projeto de portfólio. 🛍️</h1>
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+<p align="center">
+<img src="https://github.com/SamilMoret/portfolio-novo-2024/issues/2#issue-2151866778" width = "600">
+</p>
 
-![](https://raw.githubusercontent.com/SamilMoret/portfolio-novo-2024/issues/2#issue-2151866778)
+<h2>Tecnologias uitilizadas:</h2>
+<p>* HTML</p>
+<p>* CSS (incluindo Flexbox</p>
 
-## Ferramentas utilizadas:
+<h2>Feito por:</h2>
+<p>Samil Moret</p>
 
-* HTML
+<p>Linkedin:</p><a herf="https://www.linkedin.com/in/samilmoret/"></a>
 
-* CSS
 
-* Flex-box
 
-## Feito por:
-
-### Samil Moret
-
-### Linkedin:https://www.linkedin.com/in/samilmoret/
-
-```
