@@ -10,7 +10,7 @@
 
 <h2>Feito por:</h2>
 <p>Samil Moret</p>
- <a href="https://www.linkedin.com/in/samilmoret/">Linkedin</a>
+ <p>Linkedin</p><link href="https://www.linkedin.com/in/samilmoret/">
 
 
 
