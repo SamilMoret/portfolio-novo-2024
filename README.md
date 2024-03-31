@@ -2,7 +2,7 @@
 
 <p align="center">
 <p align="center">
-<img src=https://github.com/SamilMoret/assets/portafolio-capa.png>
+<img src=https://github.com/SamilMoret/portfolio-novo-2024/blob/main/assets/portafolio-capa.png?raw=true>
 </p>
 </p>
 
